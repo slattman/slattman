@@ -1,12 +1,12 @@
 
-<div>
-<img width="49%" src="streak.svg" />
-<img width="49%" src="stats.svg" />
-<img width="57%" src="activity.svg" >
-<img width="40%" src="trophy.svg" />
-</div>
-<hr />
-    
+  <div>
+  <img width="49%" src="streak.svg" />
+  <img width="49%" src="stats.svg" />
+  <img width="57%" src="activity.svg" >
+  <img width="40%" src="trophy.svg" />
+  </div>
+  <hr />
+  
 
 
 
