@@ -19,14 +19,8 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           owner: "slattman"
-      - name: Commit files
-        run: |
-          git config --local user.email "slattman@gmail.com"
-          git config --local user.name "Brad Slattman"
-          git add .
-          git commit -m "updates"
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Archive README.md
+        uses: actions/upload-artifact@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          name: readme
+          path: README.md
