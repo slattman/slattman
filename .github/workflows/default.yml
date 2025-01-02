@@ -1,6 +1,5 @@
 name: "Generate README.md"
 on:
-  # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
 jobs:
@@ -20,4 +19,4 @@ jobs:
           github-token: ${{ github.token }}
           owner: ${{ github.repository_owner }}
       - name: commit
-      - uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v5
