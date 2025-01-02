@@ -19,8 +19,5 @@ jobs:
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           owner: "slattman"
-      - name: Archive README.md
-        uses: actions/upload-artifact@v4
-        with:
-          name: readme
-          path: README.md
+      - name: Auto commit
+        uses: stefanzweifel/git-auto-commit-action@v5
