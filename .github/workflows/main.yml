@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
     
 jobs:
-  generate_awesome_readme_job:
+  build:
     runs-on: ubuntu-latest
     name: Generate README.md
     steps:
