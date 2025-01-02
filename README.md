@@ -1,9 +1,14 @@
+
 <div>
 <img width="49%" src="streak.svg" />
 <img width="49%" src="stats.svg" />
 <img width="57%" src="activity.svg" >
-<img width="40%" src="trophy.svg" /></div>
+<img width="40%" src="trophy.svg" />
+</div>
 <hr />
+    
+
+
 
  ✨ [Assembly](#Assembly) ✨ [Astro](#Astro) ✨ [C](#C) ✨ [C++](#C++) ✨ [CSS](#CSS) ✨ [Dockerfile](#Dockerfile) ✨ [Go](#Go) ✨ [HTML](#HTML) ✨ [Java](#Java) ✨ [JavaScript](#JavaScript) ✨ [Jupyter Notebook](#Jupyter-Notebook) ✨ [PHP](#PHP) ✨ [Python](#Python) ✨ [SCSS](#SCSS) ✨ [Shell](#Shell) ✨ [Solidity](#Solidity) ✨ [Starlark](#Starlark) ✨ [TypeScript](#TypeScript) ✨ [Vue](#Vue) ✨ [WebAssembly](#WebAssembly) ✨ [etc](#etc)
 
