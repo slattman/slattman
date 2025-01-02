@@ -1,16 +1,16 @@
 
 <div>
   <a href="https://github.com/slattman?tab=stars">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=slattman&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+    <img width="49%" src="streak.svg" />
   </a>
   <a href="https://github.com/slattman?tab=repositories">
-    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=slattman&theme=react&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+    <img width="49%" src="stats.svg" />
   </a>
   <a href="https://github.com/slattman?tab=repositories">
-      <img width="57%" src="https://github-readme-activity-graph.vercel.app/graph?username=slattman&theme=react&radius=50&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" >
+      <img width="57%" src="activity.svg" >
   </a>
   <a href="https://github.com/slattman?tab=achievements">
-    <img width="40%" src="https://github-profile-trophy.vercel.app/?username=slattman&theme=discord&no-frame=true&row=2&column=4" />
+    <img width="40%" src="trophy.svg" />
   </a>
 </div>
 <hr />
