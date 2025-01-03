@@ -14,7 +14,7 @@
 
 [📃](#-📃) ✨ [Assembly](#-assembly) ✨ [Astro](#-astro) ✨ [C](#-c) ✨ [C++](#-c++) ✨ [CSS](#-css) ✨ [Dockerfile](#-dockerfile) ✨ [Go](#-go) ✨ [HTML](#-html) ✨ [Java](#-java) ✨ [JavaScript](#-javascript) ✨ [Jupyter Notebook](#-jupyter-notebook) ✨ [PHP](#-php) ✨ [Python](#-python) ✨ [SCSS](#-scss) ✨ [Shell](#-shell) ✨ [Solidity](#-solidity) ✨ [Starlark](#-starlark) ✨ [TypeScript](#-typescript) ✨ [Vue](#-vue) ✨ [WebAssembly](#-webassembly)
 
-## [✨](#to-the-top) 📃
+## [🔝 ✨ 📃](#to-the-top)
 
  - [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world - *[ [cheatsheet](https://github.com/topics/cheatsheet), [datascience](https://github.com/topics/datascience), [jupyter](https://github.com/topics/jupyter), [programming](https://github.com/topics/programming), [python](https://github.com/topics/python), [r](https://github.com/topics/r), [spark](https://github.com/topics/spark) ]* - *last updated on Fri Jan 03 2025*
  - [algomatic-inc/awesome-ai-agents-guide](https://github.com/algomatic-inc/awesome-ai-agents-guide) - 🤖 A collection of AI agents includes research papers, blogs, and products focused on developing autonomous systems. - *[ [ai-agent](https://github.com/topics/ai-agent), [llm](https://github.com/topics/llm), [llm-agent](https://github.com/topics/llm-agent), [memory](https://github.com/topics/memory), [multi-agent-system](https://github.com/topics/multi-agent-system), [perception](https://github.com/topics/perception), [planning](https://github.com/topics/planning), [reasoning](https://github.com/topics/reasoning), [reflection](https://github.com/topics/reflection) ]* - *last updated on Thu Dec 19 2024*
@@ -23,52 +23,52 @@
  - [akr3ch/BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty. - *[ [bugbounty](https://github.com/topics/bugbounty), [bugbountybooks](https://github.com/topics/bugbountybooks), [bugbountypdf](https://github.com/topics/bugbountypdf), [bugbountytips](https://github.com/topics/bugbountytips), [cheatsheets](https://github.com/topics/cheatsheets), [hackingbooks](https://github.com/topics/hackingbooks) ]* - *last updated on Fri Jan 03 2025*
  - [nrwl/workshop-nx-labs](https://github.com/nrwl/workshop-nx-labs) - Lab exercises for the Nx Enterprise workshop(s) - *[ ]* - *last updated on Sun Apr 14 2024*
 
-## [✨](#to-the-top) Assembly
+## [🔝 ✨ Assembly](#to-the-top)
 
  - [janroesner/sixty5o2](https://github.com/janroesner/sixty5o2) - Micro Kernel / Bootloader for Ben Eater's 6502 Computer - *[ ]* - *last updated on Thu Dec 19 2024*
 
-## [✨](#to-the-top) Astro
+## [🔝 ✨ Astro](#to-the-top)
 
  - [cameronapak/freedom-stack](https://github.com/cameronapak/freedom-stack) - A full-stack Astro starter kit that feels freeing and is free. Ready for use, and even better when using Cursor's IDE. - *[ [alpinejs](https://github.com/topics/alpinejs), [astro](https://github.com/topics/astro), [astro-db](https://github.com/topics/astro-db), [astrojs](https://github.com/topics/astrojs), [astrojs-boilerplate](https://github.com/topics/astrojs-boilerplate), [astrojs-template](https://github.com/topics/astrojs-template), [full-stack](https://github.com/topics/full-stack), [htmx](https://github.com/topics/htmx), [libsql](https://github.com/topics/libsql), [saas-boilerplate](https://github.com/topics/saas-boilerplate), [saas-starter-kit](https://github.com/topics/saas-starter-kit), [turso](https://github.com/topics/turso) ]* - *last updated on Mon Dec 30 2024*
 
-## [✨](#to-the-top) C
+## [🔝 ✨ C](#to-the-top)
 
  - [therealsaumil/static-arm-bins](https://github.com/therealsaumil/static-arm-bins) - Statically compiled ARM binaries for debugging and runtime analysis - *[ ]* - *last updated on Thu Jan 02 2025*
  - [qemu/qemu](https://github.com/qemu/qemu) - Official QEMU mirror. Please see https://www.qemu.org/contribute/ for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website. - *[ [emulation](https://github.com/topics/emulation), [qemu](https://github.com/topics/qemu), [virtualization](https://github.com/topics/virtualization) ]* - *last updated on Fri Jan 03 2025*
  - [gitter-badger/modbusd](https://github.com/gitter-badger/modbusd) - Modbus master daemon based on libmodbus - *[ ]* - *last updated on Fri Apr 29 2022*
 
-## [✨](#to-the-top) C++
+## [🔝 ✨ C++](#to-the-top)
 
  - [codeplaysoftware/cuda-to-sycl-nbody](https://github.com/codeplaysoftware/cuda-to-sycl-nbody) - undefined - *[ ]* - *last updated on Thu Jan 02 2025*
  - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler - *[ [emscripten](https://github.com/topics/emscripten), [hacktoberfest](https://github.com/topics/hacktoberfest), [wasm](https://github.com/topics/wasm), [webassembly](https://github.com/topics/webassembly) ]* - *last updated on Fri Jan 03 2025*
  - [uxlfoundation/oneapi-construction-kit](https://github.com/uxlfoundation/oneapi-construction-kit) - undefined - *[ ]* - *last updated on Tue Dec 24 2024*
 
-## [✨](#to-the-top) CSS
+## [🔝 ✨ CSS](#to-the-top)
 
  - [mrholek/CoreUI-AngularJS](https://github.com/mrholek/CoreUI-AngularJS) - CoreUI AngularJS is free AngularJS admin template based on Bootstrap 4 - *[ [admin](https://github.com/topics/admin), [admin-dashboard](https://github.com/topics/admin-dashboard), [admin-panel](https://github.com/topics/admin-panel), [angularjs](https://github.com/topics/angularjs), [bootstrap](https://github.com/topics/bootstrap), [bootstrap-4](https://github.com/topics/bootstrap-4), [bootstrap-theme](https://github.com/topics/bootstrap-theme), [bootstrap4](https://github.com/topics/bootstrap4), [dashboard-templates](https://github.com/topics/dashboard-templates), [dashboards](https://github.com/topics/dashboards), [scss](https://github.com/topics/scss) ]* - *last updated on Wed Feb 28 2024*
 
-## [✨](#to-the-top) Dockerfile
+## [🔝 ✨ Dockerfile](#to-the-top)
 
  - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers. - *[ [bash](https://github.com/topics/bash), [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker), [dockerfile](https://github.com/topics/dockerfile), [dockerfiles](https://github.com/topics/dockerfiles), [linux](https://github.com/topics/linux), [shell](https://github.com/topics/shell) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) Go
+## [🔝 ✨ Go](#to-the-top)
 
  - [massnetorg/MassNet-miner](https://github.com/massnetorg/MassNet-miner) - MassNet-miner is a Golang implementation of MassNet full-node miner. - *[ ]* - *last updated on Tue Dec 31 2024*
  - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams - *[ [git](https://github.com/topics/git), [go](https://github.com/topics/go), [gpg](https://github.com/topics/gpg), [hacktoberfest](https://github.com/topics/hacktoberfest), [password-manager](https://github.com/topics/password-manager), [security](https://github.com/topics/security) ]* - *last updated on Fri Jan 03 2025*
  - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models. - *[ [gemma](https://github.com/topics/gemma), [gemma2](https://github.com/topics/gemma2), [go](https://github.com/topics/go), [golang](https://github.com/topics/golang), [llama](https://github.com/topics/llama), [llama2](https://github.com/topics/llama2), [llama3](https://github.com/topics/llama3), [llava](https://github.com/topics/llava), [llm](https://github.com/topics/llm), [llms](https://github.com/topics/llms), [mistral](https://github.com/topics/mistral), [ollama](https://github.com/topics/ollama), [phi3](https://github.com/topics/phi3) ]* - *last updated on Fri Jan 03 2025*
  - [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. - *[ [ai](https://github.com/topics/ai), [augmentation](https://github.com/topics/augmentation), [flourishing](https://github.com/topics/flourishing), [life](https://github.com/topics/life), [work](https://github.com/topics/work) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) HTML
+## [🔝 ✨ HTML](#to-the-top)
 
  - [sugarchain-project/web-wallet](https://github.com/sugarchain-project/web-wallet) - Simple web wallet - *[ ]* - *last updated on Sat Dec 28 2024*
  - [MicroBitcoinOrg/microbitcoinorg.github.io](https://github.com/MicroBitcoinOrg/microbitcoinorg.github.io) - Home of MicroBitcoin - *[ ]* - *last updated on Sat Dec 28 2024*
  - [irthomasthomas/undecidability](https://github.com/irthomasthomas/undecidability) - undefined - *[ ]* - *last updated on Thu Jan 02 2025*
 
-## [✨](#to-the-top) Java
+## [🔝 ✨ Java](#to-the-top)
 
  - [CellularPrivacy/Android-IMSI-Catcher-Detector](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector) - AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS! - *[ [android](https://github.com/topics/android) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) JavaScript
+## [🔝 ✨ JavaScript](#to-the-top)
 
  - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format - *[ [badge](https://github.com/topics/badge), [badge-maker](https://github.com/topics/badge-maker), [github](https://github.com/topics/github), [hacktoberfest](https://github.com/topics/hacktoberfest), [metadata](https://github.com/topics/metadata), [status](https://github.com/topics/status), [svg](https://github.com/topics/svg) ]* - *last updated on Fri Jan 03 2025*
  - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! - *[ [automated](https://github.com/topics/automated), [automation](https://github.com/topics/automation), [github](https://github.com/topics/github), [github-action](https://github.com/topics/github-action), [github-api](https://github.com/topics/github-api), [github-metrics](https://github.com/topics/github-metrics), [github-profile](https://github.com/topics/github-profile), [javascript](https://github.com/topics/javascript), [metrics](https://github.com/topics/metrics), [profile](https://github.com/topics/profile), [profile-card](https://github.com/topics/profile-card), [profile-readme](https://github.com/topics/profile-readme), [readme](https://github.com/topics/readme), [readme-generator](https://github.com/topics/readme-generator), [readme-profile](https://github.com/topics/readme-profile), [svg-image](https://github.com/topics/svg-image) ]* - *last updated on Fri Jan 03 2025*
@@ -96,17 +96,17 @@
  - [nrwl/bazel-cli-build](https://github.com/nrwl/bazel-cli-build) - undefined - *[ ]* - *last updated on Thu Mar 28 2024*
  - [pongiof/circly](https://github.com/pongiof/circly) - undefined - *[ ]* - *last updated on Sun Feb 06 2022*
 
-## [✨](#to-the-top) Jupyter-Notebook
+## [🔝 ✨ Jupyter-Notebook](#to-the-top)
 
  - [bmild/nerf](https://github.com/bmild/nerf) - Code release for NeRF (Neural Radiance Fields) - *[ [nerf](https://github.com/topics/nerf), [neural-radiance-fields](https://github.com/topics/neural-radiance-fields) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) PHP
+## [🔝 ✨ PHP](#to-the-top)
 
  - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. - *[ ]* - *last updated on Fri Jan 03 2025*
  - [squizlabs/PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. - *[ [automation](https://github.com/topics/automation), [cli](https://github.com/topics/cli), [coding-standards](https://github.com/topics/coding-standards), [php](https://github.com/topics/php), [qa](https://github.com/topics/qa), [static-analysis](https://github.com/topics/static-analysis) ]* - *last updated on Fri Jan 03 2025*
  - [PHPCompatibility/PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) - PHP Compatibility check for PHP_CodeSniffer - *[ [compatibility](https://github.com/topics/compatibility), [compatibility-testing](https://github.com/topics/compatibility-testing), [composer](https://github.com/topics/composer), [custom-ruleset](https://github.com/topics/custom-ruleset), [php](https://github.com/topics/php), [php-codesniffer](https://github.com/topics/php-codesniffer), [php-features](https://github.com/topics/php-features), [php-versions](https://github.com/topics/php-versions), [phpcompatibility](https://github.com/topics/phpcompatibility), [phpcompatibility-standard](https://github.com/topics/phpcompatibility-standard), [phpcs](https://github.com/topics/phpcs), [ruleset](https://github.com/topics/ruleset) ]* - *last updated on Sun Dec 29 2024*
 
-## [✨](#to-the-top) Python
+## [🔝 ✨ Python](#to-the-top)
 
  - [tinyfish-io/agentql](https://github.com/tinyfish-io/agentql) - AgentQL is an AI-powered query language for web scraping and automation. It uses natural language selectors to find data on any page, including authenticated content. AgentQL queries are self-healing as UI changes and work across similar sites. Users can define structured data output, making AgentQL versatile for developers and data scientists. - *[ [automation](https://github.com/topics/automation), [playwright](https://github.com/topics/playwright), [python](https://github.com/topics/python), [scraping](https://github.com/topics/scraping), [web-scraping](https://github.com/topics/web-scraping), [web-scraping-python](https://github.com/topics/web-scraping-python), [web-scrapping](https://github.com/topics/web-scrapping) ]* - *last updated on Fri Jan 03 2025*
  - [bks1242/ai-reflection-agent](https://github.com/bks1242/ai-reflection-agent) - undefined - *[ ]* - *last updated on Thu Dec 19 2024*
@@ -122,26 +122,26 @@
  - [Toxicable/bazel-monorepo-example](https://github.com/Toxicable/bazel-monorepo-example) - undefined - *[ ]* - *last updated on Thu Dec 16 2021*
  - [nrwl/nx-bazel-example](https://github.com/nrwl/nx-bazel-example) - undefined - *[ ]* - *last updated on Mon Sep 30 2024*
 
-## [✨](#to-the-top) SCSS
+## [🔝 ✨ SCSS](#to-the-top)
 
  - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io - *[ ]* - *last updated on Thu Jan 02 2025*
 
-## [✨](#to-the-top) Shell
+## [🔝 ✨ Shell](#to-the-top)
 
  - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;) - *[ [bash](https://github.com/topics/bash), [containers](https://github.com/topics/containers), [docker](https://github.com/topics/docker), [dotfiles](https://github.com/topics/dotfiles), [linux](https://github.com/topics/linux), [shell](https://github.com/topics/shell) ]* - *last updated on Fri Jan 03 2025*
  - [ChristianLempa/dotfiles](https://github.com/ChristianLempa/dotfiles) - This contain my personal config files. Here you'll find configs, customizations, themes, and whatever I need to personalize my Linux and mac OS experience. - *[ [dotfiles](https://github.com/topics/dotfiles), [linux](https://github.com/topics/linux), [macos](https://github.com/topics/macos) ]* - *last updated on Fri Jan 03 2025*
  - [arismelachroinos/lscript](https://github.com/arismelachroinos/lscript) - The LAZY script will make your life easier, and of course faster. - *[ [antivirus-evasion](https://github.com/topics/antivirus-evasion), [bypass-antivirus](https://github.com/topics/bypass-antivirus), [bypass-av](https://github.com/topics/bypass-av), [eternalblue-doublepulsar-metasploit](https://github.com/topics/eternalblue-doublepulsar-metasploit), [kali-linux](https://github.com/topics/kali-linux), [kali-scripts](https://github.com/topics/kali-scripts), [metasploit-framework](https://github.com/topics/metasploit-framework), [payload](https://github.com/topics/payload), [payload-generator](https://github.com/topics/payload-generator), [penetration-testing](https://github.com/topics/penetration-testing), [pentest-tool](https://github.com/topics/pentest-tool), [pentesting](https://github.com/topics/pentesting), [pixie-dust](https://github.com/topics/pixie-dust), [shell-script](https://github.com/topics/shell-script), [sqlinjection](https://github.com/topics/sqlinjection), [wifi-password](https://github.com/topics/wifi-password), [wifi-testing](https://github.com/topics/wifi-testing), [wifiphisher](https://github.com/topics/wifiphisher), [wpa-cracker](https://github.com/topics/wpa-cracker), [wpa2-handshake](https://github.com/topics/wpa2-handshake) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) Solidity
+## [🔝 ✨ Solidity](#to-the-top)
 
  - [Cyfrin/foundry-defi-stablecoin-cu](https://github.com/Cyfrin/foundry-defi-stablecoin-cu) - undefined - *[ ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) Starlark
+## [🔝 ✨ Starlark](#to-the-top)
 
  - [GoogleContainerTools/base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers. - *[ ]* - *last updated on Sat Dec 28 2024*
  - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   - *[ [bazel](https://github.com/topics/bazel), [docker](https://github.com/topics/docker) ]* - *last updated on Fri Jan 03 2025*
 
-## [✨](#to-the-top) TypeScript
+## [🔝 ✨ TypeScript](#to-the-top)
 
  - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet - *[ [cheat-sheet](https://github.com/topics/cheat-sheet), [emoji](https://github.com/topics/emoji), [github](https://github.com/topics/github), [markdown](https://github.com/topics/markdown) ]* - *last updated on Fri Jan 03 2025*
  - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast! - *[ [build-tool](https://github.com/topics/build-tool), [dev-server](https://github.com/topics/dev-server), [frontend](https://github.com/topics/frontend), [hmr](https://github.com/topics/hmr), [vite](https://github.com/topics/vite) ]* - *last updated on Fri Jan 03 2025*
@@ -169,11 +169,11 @@
  - [angular/angular-bazel-example](https://github.com/angular/angular-bazel-example) - MOVED to the bazel nodejs monorepo  👉 - *[ [angular](https://github.com/topics/angular), [bazel](https://github.com/topics/bazel), [build](https://github.com/topics/build), [typescript](https://github.com/topics/typescript) ]* - *last updated on Wed Nov 06 2024*
  - [akveo/nebular](https://github.com/akveo/nebular) - :boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode - *[ [akveo](https://github.com/topics/akveo), [angular](https://github.com/topics/angular), [angular-cli](https://github.com/topics/angular-cli), [angular-components](https://github.com/topics/angular-components), [angular2](https://github.com/topics/angular2), [angular4](https://github.com/topics/angular4), [angular5](https://github.com/topics/angular5), [angular6](https://github.com/topics/angular6), [angular7](https://github.com/topics/angular7), [authentication](https://github.com/topics/authentication), [modular](https://github.com/topics/modular), [multitheme](https://github.com/topics/multitheme), [nebular-modules](https://github.com/topics/nebular-modules), [ngx-admin](https://github.com/topics/ngx-admin), [sass](https://github.com/topics/sass), [theme](https://github.com/topics/theme), [typescript](https://github.com/topics/typescript), [ui](https://github.com/topics/ui), [ui-kit](https://github.com/topics/ui-kit), [webpack](https://github.com/topics/webpack) ]* - *last updated on Thu Jan 02 2025*
 
-## [✨](#to-the-top) Vue
+## [🔝 ✨ Vue](#to-the-top)
 
  - [rpadovani/daintree](https://github.com/rpadovani/daintree) - An open source alternative to the AWS Console! - *[ [aws](https://github.com/topics/aws), [vuejs](https://github.com/topics/vuejs) ]* - *last updated on Tue Oct 29 2024*
 
-## [✨](#to-the-top) WebAssembly
+## [🔝 ✨ WebAssembly](#to-the-top)
 
  - [AssemblyScript/examples](https://github.com/AssemblyScript/examples) - A collection of AssemblyScript examples. - *[ [assemblyscript](https://github.com/topics/assemblyscript), [wasm](https://github.com/topics/wasm), [webassembly](https://github.com/topics/webassembly) ]* - *last updated on Sun Dec 22 2024*
  - [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) - Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly.  - *[ [examples](https://github.com/topics/examples), [wasm](https://github.com/topics/wasm), [webassembly](https://github.com/topics/webassembly) ]* - *last updated on Fri Jan 03 2025*
