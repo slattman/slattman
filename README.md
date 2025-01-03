@@ -179,4 +179,4 @@
  - [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) - Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly.  - *[ [examples](https://github.com/topics/examples), [wasm](https://github.com/topics/wasm), [webassembly](https://github.com/topics/webassembly) ]* - *last updated on Fri Jan 03 2025*
 
 
-<sup>made with ❤️‍🔥</sup>
+<br /><sup>made with ❤️‍🔥</sup>
