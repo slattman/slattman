@@ -1,8 +1,11 @@
 
-  <div>
-  <img width="48%" src="stats.svg" />
-  <img width="51%" src="streak.svg" />
+  <hr />
+  <div align="center">  
+  <img width="47%" src="stats.svg" />
+  &nbsp;
+  <img width="50%" src="streak.svg" />
   <img width="57%" src="activity.svg" >
+  &nbsp;
   <img width="40%" src="trophy.svg" />
   </div>
   <hr />
@@ -10,7 +13,16 @@
 
 
 
- ✨ [Assembly](#Assembly) ✨ [Astro](#Astro) ✨ [C](#C) ✨ [C++](#C++) ✨ [CSS](#CSS) ✨ [Dockerfile](#Dockerfile) ✨ [Go](#Go) ✨ [HTML](#HTML) ✨ [Java](#Java) ✨ [JavaScript](#JavaScript) ✨ [Jupyter Notebook](#Jupyter-Notebook) ✨ [PHP](#PHP) ✨ [Python](#Python) ✨ [SCSS](#SCSS) ✨ [Shell](#Shell) ✨ [Solidity](#Solidity) ✨ [Starlark](#Starlark) ✨ [TypeScript](#TypeScript) ✨ [Vue](#Vue) ✨ [WebAssembly](#WebAssembly) ✨ [etc](#etc)
+[ ](#-) ✨ [Assembly](#assembly) ✨ [Astro](#astro) ✨ [C](#c) ✨ [C++](#c++) ✨ [CSS](#css) ✨ [Dockerfile](#dockerfile) ✨ [Go](#go) ✨ [HTML](#html) ✨ [Java](#java) ✨ [JavaScript](#javascript) ✨ [Jupyter Notebook](#jupyter-notebook) ✨ [PHP](#php) ✨ [Python](#python) ✨ [SCSS](#scss) ✨ [Shell](#shell) ✨ [Solidity](#solidity) ✨ [Starlark](#starlark) ✨ [TypeScript](#typescript) ✨ [Vue](#vue) ✨ [WebAssembly](#webassembly)
+
+## ✨ -
+
+- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
+- [awesome-ai-agents-guide](https://github.com/algomatic-inc/awesome-ai-agents-guide) - 🤖 A collection of AI agents includes research papers, blogs, and products focused on developing autonomous systems.
+- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+- [PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
+- [BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
+- [workshop-nx-labs](https://github.com/nrwl/workshop-nx-labs) - Lab exercises for the Nx Enterprise workshop(s)
 
 ## ✨ Assembly
 
@@ -164,12 +176,3 @@
 
 - [examples](https://github.com/AssemblyScript/examples) - A collection of AssemblyScript examples.
 - [webassembly-examples](https://github.com/mdn/webassembly-examples) - Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly. 
-
-## ✨ etc
-
-- [ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets) - List of Data Science Cheatsheets to rule the world
-- [awesome-ai-agents-guide](https://github.com/algomatic-inc/awesome-ai-agents-guide) - 🤖 A collection of AI agents includes research papers, blogs, and products focused on developing autonomous systems.
-- [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-- [PROXY-List](https://github.com/TheSpeedX/PROXY-List) - Get PROXY List  that gets updated everyday
-- [BugBountyBooks](https://github.com/akr3ch/BugBountyBooks) - A collection of PDF/books about the modern web application security and bug bounty.
-- [workshop-nx-labs](https://github.com/nrwl/workshop-nx-labs) - Lab exercises for the Nx Enterprise workshop(s)
