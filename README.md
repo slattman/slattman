@@ -1,5 +1,4 @@
 
-  <hr />
   <div align="center">  
   <img width="47%" src="stats.svg" />
   &nbsp;
