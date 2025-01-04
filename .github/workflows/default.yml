@@ -19,7 +19,7 @@ jobs:
         uses: slattman/readme-generator@latest
         env:
           NODE_NO_WARNINGS: 1
-          TEST: ""
+          TEST: false
           GITHUB_TOKEN: ${{ github.token }}
           OWNER: ${{ github.repository_owner }}
       - name: commit
