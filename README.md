@@ -137,6 +137,7 @@
 
 ## [🔝 ✨ TypeScript](#to-the-top)
 
+ - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript. - *[ [aws-sdk](https://github.com/topics/aws-sdk), [aws-sdk-js](https://github.com/topics/aws-sdk-js), [dynamodb](https://github.com/topics/dynamodb), [javascript](https://github.com/topics/javascript), [lambda](https://github.com/topics/lambda), [nodejs](https://github.com/topics/nodejs), [s3](https://github.com/topics/s3), [sns](https://github.com/topics/sns), [typescript](https://github.com/topics/typescript) ]* - *last updated on Sat Jan 04 2025*
  - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet - *[ [cheat-sheet](https://github.com/topics/cheat-sheet), [emoji](https://github.com/topics/emoji), [github](https://github.com/topics/github), [markdown](https://github.com/topics/markdown) ]* - *last updated on Fri Jan 03 2025*
  - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast! - *[ [build-tool](https://github.com/topics/build-tool), [dev-server](https://github.com/topics/dev-server), [frontend](https://github.com/topics/frontend), [hmr](https://github.com/topics/hmr), [vite](https://github.com/topics/vite) ]* - *last updated on Fri Jan 03 2025*
  - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  - *[ [actions](https://github.com/topics/actions) ]* - *last updated on Fri Jan 03 2025*
