@@ -135,7 +135,7 @@
 ## [🔝 ✨ Starlark](#to-the-top)
 
  - [GoogleContainerTools/base-images-docker](https://github.com/GoogleContainerTools/base-images-docker) - Base images for Google Docker containers. - *[ ]* - *last updated on Sat Dec 28 2024*
- - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   - *[ [bazel](https://github.com/topics/bazel), [docker](https://github.com/topics/docker) ]* - *last updated on Fri Jan 03 2025*
+ - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.   - *[ [bazel](https://github.com/topics/bazel), [docker](https://github.com/topics/docker) ]* - *last updated on Sat Jan 04 2025*
 
 ## [🔝 ✨ TypeScript](#to-the-top)
 
