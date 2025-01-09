@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: slattman/my-favorite-readme-generator@latest
-      - run: ./.github/api/createCommitOnBranch.sh
+      - uses: slattman/commit-signed@latest
       - run: gh run delete $(gh run list --json databaseId -q "map(.databaseId)[1]")
