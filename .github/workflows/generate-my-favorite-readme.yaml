@@ -1,0 +1,7 @@
+name: generate-my-favorite-readme
+on:
+  workflow_dispatch:
+jobs:
+  generate-readme:
+    uses: slattman/slattman/.github/workflows/my-favorite-readme-generator.yaml@main
+    permissions: write-all
