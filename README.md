@@ -8,7 +8,6 @@
   <img width="40%" src="trophies.svg" />
   </div>
   <hr />
-  
 
 [📃](#--📃) ✨ [Assembly](#--assembly) ✨ [Astro](#--astro) ✨ [C](#--c) ✨ [C++](#--c++) ✨ [CSS](#--css) ✨ [Dockerfile](#--dockerfile) ✨ [Go](#--go) ✨ [HCL](#--hcl) ✨ [HTML](#--html) ✨ [Java](#--java) ✨ [JavaScript](#--javascript) ✨ [Jupyter Notebook](#--jupyter-notebook) ✨ [PHP](#--php) ✨ [Python](#--python) ✨ [SCSS](#--scss) ✨ [Shell](#--shell) ✨ [Solidity](#--solidity) ✨ [Starlark](#--starlark) ✨ [TypeScript](#--typescript) ✨ [Vue](#--vue) ✨ [WebAssembly](#--webassembly)
 
